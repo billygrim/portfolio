@@ -1,0 +1,89 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(255, 225, 215);
+}
+
+.head{
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+.body{
+
+}
+
+.head img{
+  height: 150px;
+  width: auto;
+}
+
+.head h1{
+
+  text-align: center;
+  color: hotpink;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+
+}
+
+
+.body h1{
+  text-align: center;
+  font-size: 'Nunito San';
+  text-decoration-line: underline;
+}
+
+.body div{
+  display: inline-grid;
+  width: 40%;
+  padding: 30px;
+}
+
+.left-side ul{
+  padding: 30px;
+}
+
+.left-side p{
+    font-family: "Poppins";
+    font-size: 25px;
+}
+
+.left-side li{
+  font-family: "Oswald";
+  font-size: 25px;
+}
+
+.right-side p{
+font-family: "Poppins";
+font-size: 25px;
+}
+
+.right-side ul{
+  padding: 30px;
+}
+
+.right-side li{
+  font-family: "Oswald";
+  font-size: 25px;
+}
+
+.foot{
+
+text-align: center;
+border: black 1px solid;
+}
+
+.foot li{
+display: inline-block;
+padding: 10px;
+font-family: "Oswald";
+font-size: 20px;
+}
+
+.foot u{
+  font-family: "Poppins";
+  font-weight: bold;
+}
